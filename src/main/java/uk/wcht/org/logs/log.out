@@ -1,0 +1,4 @@
+2020-04-22 12:04:147 INFO  BrowserSelector :25 - Launching Chrome Browser
+2020-04-22 12:04:253 INFO  HomePage :33 - Clicking On About Us Link[[ChromeDriver: chrome on WINDOWS (9ec6f68d2d8513e7df892f9f823981c2)] -> link text: About us]
+2020-04-22 12:04:991 INFO  BrowserSelector :25 - Launching Chrome Browser
+2020-04-22 12:04:245 INFO  HomePage :28 - Clicking On Your Home Link[[ChromeDriver: chrome on WINDOWS (6566aa04171e71dfdbea064f66cc9fb3)] -> link text: Your home]
